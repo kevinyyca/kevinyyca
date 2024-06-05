@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Kevinyyca's github stats](https://github-readme-stats.vercel.app/api?username=kevinyyca&count_private=true&show_icons=true)](https://github.com/kevinyyca)
+[![Chen_tech's github stats](https://github-readme-stats.vercel.app/api?username=kevinyyca&count_private=true&show_icons=true)](https://github.com/kevinyyca)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinyyca&hide=php)](https://github.com/kevinyyca)
 
